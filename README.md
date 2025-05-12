@@ -21,7 +21,14 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 - Herramientas: `Git`, `GitHub`, `VSCode`
 
 ---
+## 🛠️ Proyectos
 
+Aquí están algunas de los proyectos con los que he trabajado:
+
+- proyecto 1
+
+
+---
 
 
 
