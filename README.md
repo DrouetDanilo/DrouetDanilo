@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Danilo Drouet
 
-<!--
-**DrouetDanilo/DrouetDanilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido/a a mi repositorio personal. Aquí encontrarás información sobre mí, los proyectos en los que he trabajado, y las tecnologías que utilizo. 🚀
 
-Here are some ideas to get you started:
+## 📌 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante. Actualmente estudio en [Espol] y me interesa [computacion].
+
+- 🎓 Carrera: [Ingenieria en computacion]
+- 📧 Contacto: [ddrouet@espol.edu.ec]
+
+
+---
+
+## 🛠️ Tecnologías que utilizo
+
+Aquí están algunas de las tecnologías con las que he trabajado:
+
+- Lenguajes: `Python`, `Java`, `C++`
+- Base de datos: `MySQL`, 
+- Herramientas: `Git`, `GitHub`, `VSCode`
+
+---
+
+
+
+
+
+
+
+---
+
+## 📌 Cómo clonar este repositorio
+
+```bash
+git clone https://github.com/usuario/mi-repositorio.git
+cd mi-repositorio
