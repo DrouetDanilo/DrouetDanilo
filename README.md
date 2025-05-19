@@ -23,7 +23,7 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 ---
 # Mis Proyectos
 
-## Tres en Raya - Proyecto de Estructura de Datos
+## 1 Tres en Raya - Proyecto de Estructura de Datos
 
 - **Descripción:**  
   Proyecto desarrollado en grupo para la asignatura de Estructura de Datos. Se trata de un juego clásico de Tres en Raya (Tic-Tac-Toe) implementado en Java utilizando Android Studio.
@@ -36,6 +36,21 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 
 - **Trabajo en grupo:**  
   Proyecto colaborativo realizado con compañeros de clase para aplicar conceptos de estructuras de datos en un juego interactivo.
+  ## 2 Sistema de Gestión de Base de Datos para Empresa de Ventas
+
+- **Descripción:**  
+  Proyecto realizado en grupo para la materia de Base de Datos. Consiste en el diseño e implementación de una base de datos para una empresa dedicada a la venta de productos, utilizando SQL para la gestión de datos y Python para la interacción con la base.
+
+- **Tecnologías:**  
+  SQL, Python
+
+- **Repositorio:**  
+  [https://github.com/PaulPerdomo37/basesproyectoo.git](https://github.com/PaulPerdomo37/basesproyectoo.git)
+
+- **Trabajo en grupo:**  
+  Desarrollo colaborativo enfocado en la creación y manipulación eficiente de bases de datos para soportar las operaciones de una empresa.
+
+---
 
 
 ## 📌 Cómo clonar este repositorio
