@@ -21,21 +21,22 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 - Herramientas: `Git`, `GitHub`, `VSCode`
 
 ---
-## 🛠️ Proyectos
+# Mis Proyectos
 
-Aquí están algunas de los proyectos con los que he trabajado:
+## Tres en Raya - Proyecto de Estructura de Datos
 
-- proyecto 1
+- **Descripción:**  
+  Proyecto desarrollado en grupo para la asignatura de Estructura de Datos. Se trata de un juego clásico de Tres en Raya (Tic-Tac-Toe) implementado en Java utilizando Android Studio.
 
+- **Tecnologías:**  
+  Java, Android Studio
 
----
+- **Repositorio:**  
+  [https://github.com/marciatorresg/ED_P1_Grupo07.git](https://github.com/marciatorresg/ED_P1_Grupo07.git)
 
+- **Trabajo en grupo:**  
+  Proyecto colaborativo realizado con compañeros de clase para aplicar conceptos de estructuras de datos en un juego interactivo.
 
-
-
-
-
----
 
 ## 📌 Cómo clonar este repositorio
 
