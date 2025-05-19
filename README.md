@@ -50,7 +50,22 @@ Aquí están algunas de las tecnologías con las que he trabajado:
 - **Trabajo en grupo:**  
   Desarrollo colaborativo enfocado en la creación y manipulación eficiente de bases de datos para soportar las operaciones de una empresa.
 
+## 3 Sistema de Reservas para Servicio de Hoteles
+
+- **Descripción:**  
+  Proyecto grupal desarrollado para la materia de Diseño de Software. Implementación de un programa para la gestión de reservas en hoteles utilizando Java, aplicando los principios SOLID y diversos patrones de diseño para asegurar un código modular y mantenible.
+
+- **Tecnologías:**  
+  Java
+
+- **Repositorio:**  
+  [https://github.com/jruano-espol/Tarea04-diseno.git](https://github.com/jruano-espol/Tarea04-diseno.git)
+
+- **Trabajo en grupo:**  
+  Proyecto colaborativo enfocado en el diseño de software robusto y escalable para la gestión de servicios hoteleros.
+
 ---
+
 
 
 ## 📌 Cómo clonar este repositorio
