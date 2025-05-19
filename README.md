@@ -16,8 +16,18 @@ Soy estudiante. Actualmente estudio en [Espol] y me interesa [computacion].
 
 Aquí están algunas de las tecnologías con las que he trabajado:
 
-- Lenguajes: `Python`, `Java`, `C++`
-- Base de datos: `MySQL`, 
+## Tecnologías Utilizadas
+
+- **Java:** Lenguaje orientado a objetos usado para desarrollar aplicaciones robustas y mantenibles, aplicando principios SOLID y patrones de diseño en el proyecto de reservas de hoteles y el juego Tres en Raya.
+
+- **Android Studio:** IDE oficial para crear aplicaciones Android, utilizado en el desarrollo del juego Tres en Raya para diseñar la interfaz y lógica del juego.
+
+- **SQL:** Lenguaje para gestión de bases de datos relacionales, usado para diseñar y manipular la base de datos en el proyecto de empresa de ventas.
+
+- **Python:** Lenguaje versátil usado para interactuar con la base de datos SQL, facilitando consultas y operaciones en el proyecto de la base de datos.
+
+- **Principios SOLID y Patrones de Diseño:** Aplicados en el proyecto de reservas de hoteles para asegurar un código modular, escalable y fácil de mantener.
+
 - Herramientas: `Git`, `GitHub`, `VSCode`
 
 ---
